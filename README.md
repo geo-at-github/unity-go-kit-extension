@@ -2,6 +2,9 @@
 My extensions for the GoKit tween library for Unity 3D (https://github.com/prime31/GoKit).
 It contains tweens for achorPositions (tween all four anchors relative to their "center") and the anchored position (http://docs.unity3d.com/ScriptReference/RectTransform-anchoredPosition.html).
 
+It is implemented with c# extension methods to GoKit (https://msdn.microsoft.com/en-us/library/bb383977.aspx).
+
+
 Usage
 -----
 Usage is similar to the translation tweens on GoKit.
